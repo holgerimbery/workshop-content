@@ -16,7 +16,7 @@ by [@jenkra91](https://github.com/jenkra91) &amp; [@holgerimbery](https://github
   \"copilotstudioinaday.\" Please do not use any other environment.
 
 ## Challenge 01: Travel Agent
-- go to "Home" and use the \"Safe Travel\" template to begin.
+- go to "Home" and use the "Safe Travel" template to begin.
 
 ![](./media/ae7fe25623434553a9e7a27a6df2a2d96040d018.png)
 
@@ -40,7 +40,11 @@ website.
 
 ![](./media/5f868e65c0503762b4adaf3a9ce259f16de04ca4.png)
 
-- Please add: https://europa.eu/youreurope/citizens/ as a public website
+- Please add 
+```
+https://europa.eu/youreurope/citizens/
+```
+as a public website
 and give it a helpful name.
 
 ![](./media/6e0b8768ca4e96b13dcfc85464859590968b0888.png)
@@ -201,7 +205,12 @@ the picture)
 
 ![](./media/09fb47a6ac9a4339f7c1e64abdd57f1849aed4ca.png)
 
-- Enter ```what type of devices are you looking for``` in the question text
+- Enter 
+```
+what type of devices are you looking for
+```
+
+in the question text
 
 - Select multiple choice in the Identify dropdown
 
