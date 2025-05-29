@@ -11,9 +11,9 @@ by [@jenkra91](https://github.com/jenkra91) &amp; [@holgerimbery](https://github
 
 - Log in using your credentials.
 
-- Switch to the correct environment by clicking on \"Environment\" in
+- Switch to the correct environment by clicking on "Environment" in
   the top right corner (see picture above). Ensure that you select
-  \"copilotstudioinaday.\" Please do not use any other environment.
+  "copilotstudioinaday." Please do not use any other environment.
 
 ## Challenge 01: Travel Agent
 - go to "Home" and use the "Safe Travel" template to begin.
@@ -24,11 +24,11 @@ by [@jenkra91](https://github.com/jenkra91) &amp; [@holgerimbery](https://github
 
 ![](./media/049b57c1e7a1de43f19335f69fe01be01ca2128e.png)
 
-- Begin by renaming the Agent to \"Safe Travels User0XX,\" where XX
+- Begin by renaming the Agent to "Safe Travels User0XX," where XX
   corresponds to your user number in this session.
 
 - Please pay attention to the Instructions section; here, you will
-  define your agent\'s purpose and communication style.
+  define your agent's purpose and communication style.
 
 ![](./media/3abe0bd29bfb04a876bd4d26963f0c58e9890a57.png)
 
@@ -49,7 +49,7 @@ and give it a helpful name.
 
 ![](./media/6e0b8768ca4e96b13dcfc85464859590968b0888.png)
 
-- Press \"Create\" to start your first agent in this lesson.
+- Press "Create" to start your first agent in this lesson.
 
 ![](./media/cb265f98a8bde80f4fdc22fa66aed6300cdd3596.png)
 
@@ -72,7 +72,7 @@ and include other elements you consider necessary.
 
 ## Challenge 02 - Develop an agent that can converse using your data from the beginning
 
-- Close the first agent you created and return to the \"Home\" page.
+- Close the first agent you created and return to the "Home" page.
 
 - Use the conversational experience to create a new agent with the
 following instructions: 
@@ -117,7 +117,7 @@ on the right side:
 ![](./media/e3a08cc8e963cfde51ccedd290ad8b244149efdd.png)
 
 
-- When ready, click on \"Create\" to initiate the second agent for your
+- When ready, click on "Create" to initiate the second agent for your
 session. Use the test pane to ask questions you have about Microsoft
 products.
 
@@ -137,7 +137,7 @@ How do I configure authentication in Copilot Studio?
 
 ![](./media/6cad447f26f473d1c74a7549851296aed475306f.png)
 
-- Then, click \"+ Add Knowledge\" and select SharePoint.
+- Then, click "+ Add Knowledge" and select SharePoint.
 
 ![](./media/b7113194c3ecd103e35db02e5262fed964493b90.png)
 
@@ -155,7 +155,7 @@ orchestration is enabled, if not do so.
 ![](./media/479d4d80527e565e0e15e2c68e2cf5b3f7e6aff5.png)
 
 
-* Close this dialog with clicking on "X"\
+* Close this dialog with clicking on "X"
 - go to topics, "+Add new topic" and "from blank"
 
 ![](./media/085ee76e8ac46087d841cea56eab1c5e365b0c4b.png)
@@ -165,7 +165,7 @@ orchestration is enabled, if not do so.
 This topic helps users find devices that are available from our
 SharePoint device management list. They can ask to see available devices
 and it will return a list of devices that are available which can
-include laptops, smartphones, accessories and more\
+include laptops, smartphones, accessories and more
 ```
 
 ![](./media/ab549ce4c50cc82e6a6136d245fd2a2340ddff84.png)
