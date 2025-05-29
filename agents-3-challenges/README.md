@@ -1,4 +1,6 @@
-# Workshop:  Develop Agents with Copilot Studio -- Practical Challenges
+# Workshop:  Develop Agents with Copilot Studio
+
+## start with the basics
 
 ![](./media/eeeb5023e5173e7e251c51c53823128058f27350.png)
 
@@ -29,7 +31,7 @@
 ![](./media/3abe0bd29bfb04a876bd4d26963f0c58e9890a57.png)
 
 - Next, scroll down to the Knowledge section. In this part, you will
-provide your agent with its first capability, \"Knowledge"\,
+provide your agent with its first capability, "Knowledge",
 
 - This section is already pre-filled, but you may add an additional
 website.
@@ -37,7 +39,7 @@ website.
 ![](./media/5f868e65c0503762b4adaf3a9ce259f16de04ca4.png)
 
 - Please add: https://europa.eu/youreurope/citizens/ as a public website
-and give it a useful name.
+and give it a helpful name.
 
 ![](./media/6e0b8768ca4e96b13dcfc85464859590968b0888.png)
 
@@ -59,8 +61,7 @@ What visa do I need as an American citizen traveling to Europe?"
 This agent serves as an excellent starting point for exploring Copilot
 Studio.
 
-Please remember to apply similar knowledge and actions. You can
-incorporate web search functionality, select a different response model,
+You can incorporate web search functionality, select a different response model,
 and include other elements you consider necessary.
 
 ## Challenge 02 - Develop an agent that can converse using your data from the beginning
@@ -126,7 +127,7 @@ How do I configure authentication in Copilot Studio?
 
 - Please do not leave your agent, just stay where you are.
 
-Click on "Knowledge"
+- Click on "Knowledge"
 
 ![](./media/6cad447f26f473d1c74a7549851296aed475306f.png)
 
@@ -134,7 +135,7 @@ Click on "Knowledge"
 
 ![](./media/b7113194c3ecd103e35db02e5262fed964493b90.png)
 
-add the following site: 
+- add the following site: 
 ```
 https://ddcoms.sharepoint.com/sites/IT
 ```
@@ -202,7 +203,7 @@ the picture)
 
 - Select multiple choice in the Identify dropdown
 
-- Enter Laptop and Smartphone in the choice option
+- Enter "Laptop" and "Smartphone" in the choice option
 
 - Click the Save user response as
 
@@ -210,11 +211,11 @@ the picture)
 
 ![](./media/a3fb616117c78bb3ce5b36eee65d40def0c13f3c.png)
 
-- Click the add button before the get items action
+- Click the "add button" before the get items action
 
-- Select Variable Management
+- Select "Variable Management"
 
-- Select Set a variable value
+- Select "Set a variable value"
 
 ![](./media/ac8e7b19a64cc06512bdeed5e89e1121a0608132.png)
 
@@ -251,7 +252,7 @@ Topic.VarDeviceType, \"\'\")\
 
 - Click the Add button in the message
 
-Choose Adaptive Card
+- Choose Adaptive Card
 
 ![](./media/54fdebfd0636511b60e1c805917aa7f860c59d95.png)
 
