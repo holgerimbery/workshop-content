@@ -1,6 +1,6 @@
 # Workshop:  Develop Agents with Copilot Studio
 
-by [@jenkra91](https://github.com/jenkra91) &amp; [@holgerimbery](https://github.com/holgerimbery)
+by [@jenkra91](https://github.com/jenkra91) &amp; [@holgerimbery](https://github.com/holgerimbery) -- Link: [https://ln.run/fJAFa](https://ln.run/fJAFa)
 
 ## start with the basics
 
